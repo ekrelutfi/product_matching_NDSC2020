@@ -5,6 +5,6 @@ Pre Launch Product Matching - ID NDSC 2020
 
 
 This project about product matching. 
-I do it with my mate. We use SSIM for measure of similiarity of product image and fuzzy for the Title of product
+I do it with my mate. We use SSIM for measure of similiarity of product image and fuzzy for the title of the product
 
 Unfortunately, we cant finish the competition because It's impossible for us by now to process 30k image for 3 hour.
